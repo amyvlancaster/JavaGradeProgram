@@ -1,11 +1,3 @@
-
-/**
-*  @Course: SDEV 250 ~ Java Programming I
-*  @Author Name: Amy Lancaster
-*  @Assignment Name: Week 11: Assignment: Inheritance and Polymorphism
-*  @Date: Jul 28, 2020
-*  @Subclass Grad Description: Grad subclass 
-*/
 //Begin Subclass Grad
 public class Grad extends Student {
     

@@ -1,6 +1,3 @@
-//Imports
-import java.util.*;
-
 //Begin Subclass Student
 public class Student {
 

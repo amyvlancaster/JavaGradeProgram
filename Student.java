@@ -1,11 +1,3 @@
-
-/**
- *  @Course: SDEV 250 ~ Java Programming I
- * @Author Name: Amy Lancaster
- * @Assignment Name: Week 11: Assignment: Inheritance and Polymorphism
- * @Date: Jul 28, 2020
- * @Subclass Student Description: Student Superclass
- */
 //Imports
 import java.util.*;
 

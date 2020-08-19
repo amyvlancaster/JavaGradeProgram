@@ -1,14 +1,3 @@
-
-/**
- *  @Course: SDEV 250 ~ Java Programming I
- * @Author Name: Amy Lancaster
- * @Assignment Name: Week 11: Assignment: Inheritance and Polymorphism
- * @Date: Jul 28, 2020
- * @Description: This program takes a student name, Grad/Undergrad input,
- * assignment grades, discussion grades, midweek grades, and thesis grades. It
- * also takes a y/n input for the IDEA survey. Finally, it computes the
- * student's final grade average.
- */
 //Imports
 import java.util.*;
 

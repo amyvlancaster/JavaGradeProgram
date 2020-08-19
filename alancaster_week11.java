@@ -1,8 +1,8 @@
 //Imports
 import java.util.*;
 
-//Begin Class alancaster_week11
-public class alancaster_week11 {
+//Begin Class JavaGradeProgram
+public class JavaGradeProgram {
 
     //Polymorphic Instances
     static Student student = new Student();
